@@ -4,7 +4,7 @@
 
 Submitted by: **Aarushi Singh**
 
-Time spent: **9** hours spent in total
+Time spent: **10.5** hours spent in total
 
 ## User Stories
 
