@@ -11,7 +11,7 @@ Time spent: **9** hours spent in total
 The following **required** functionality is completed:
 
 * [x] User can **view a list of todo items**
-* [x ] User can **successfully add and remove items** from the todo list
+* [x] User can **successfully add and remove items** from the todo list
 * [x] User's **list of items are persisted** across app restarts
 
 The following **bonus** features are implemented:
@@ -33,8 +33,8 @@ GIF created with [Kap](https://getkap.co/).
 ## Notes
 
 Describe any challenges encountered while building the app.
-I had problems with my gradle which caused me to refactor my app to be in androidx. I also had two itemsAdapters that I had created so I kept getting 
-errors that my itemsAdapters were null. After recoginizing this, I made sure I wasn't creating a new instance of itemsAdapter.
+
+I had problems with my gradle which caused me to refactor my app to be in androidx as the solution. I also had two itemsAdapters that I had created so I kept getting errors that my itemsAdapters were null. After recoginizing this, I made sure I wasn't creating a new instance of itemsAdapter. I also had a problem making the gif and using terminal but I was able to find my mistakes and make it work at the end.
 
 ## License
 
